@@ -1,6 +1,6 @@
 # rpc-image-classification
-Flask App for sending images of hands making rock, paper, or scissors gestures with their hand and receiving a prediction from image model.
-It runs through a CLI (image as a filepath) or through the client route in the browser.
+Flask App for sending images of hands making rock, paper, or scissors gestures and receiving a prediction of which gesture it is using a classification model.
+You can access the server through a CLI (image as a filepath) or through the client route in the browser.
 
 CLI:
 
